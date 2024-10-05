@@ -2,7 +2,7 @@
 
 ###
 <hr>
-<p align="left">🎓 Formanda em Análise e Dssenvolvimento de Sistemas | 💡 Apaixonada por Tecnologia | 🚀 Iniciando na Jornada de Desenvolvimento de Sistemas</p>
+<p align="left">🎓 Formanda em Análise e Desenvolvimento de Sistemas | 💡 Apaixonada por Tecnologia | 🚀 Iniciando na Jornada de Desenvolvimento de Sistemas</p>
 
 ###
 
