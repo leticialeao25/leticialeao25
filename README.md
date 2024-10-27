@@ -1,4 +1,4 @@
-<h2 align="center">Hello, Word! <br>Sou Leticia 😛- futura tech 💻🖱️</h2>
+<h2 align="center">Hello, World! <br>Sou Leticia 😛- futura tech 💻🖱️</h2>
 
 ###
 <hr>
